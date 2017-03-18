@@ -35,4 +35,4 @@ LOGGING = {
 if __name__ == '__main__':
     print(sys.version)
     logging.config.dictConfig(LOGGING)
-    logging.debug('hellos')
+    logging.debug('hellhos')
